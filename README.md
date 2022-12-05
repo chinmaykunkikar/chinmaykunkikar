@@ -1,4 +1,5 @@
-### Hi there 👋
+### नमस्कार 🙏🏼
+I'm Chinmay, a frontend developer, thriving on the joy of creating delightful web experiences.
 
 <!--
 **chinmaykunkikar/chinmaykunkikar** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
