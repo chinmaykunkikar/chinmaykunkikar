@@ -1,4 +1,4 @@
-### नमस्कार 🙏🏼
+### 🙏🏼 नमस्कार
 I'm Chinmay, a frontend developer, thriving on the joy of creating delightful web experiences.
 
 <!--
